@@ -177,3 +177,7 @@ cython_debug/
 
 NOTE.md
 users/
+
+# Certificates
+cert.crt
+cert.key
